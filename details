@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<head>
+    <title>my detais</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .details {
+            margin-top: 30px;
+        }
+        .row {
+            margin-bottom: 16px;
+        }
+        .label {
+            font-weight: bold;
+            display: inline-block;
+            width: 130px;
+            color: #34495e;
+        }
+        .value {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MY PAGE</h1>
+        <div class="details">
+            <div class="row">
+                <span class="label">Name:</span>
+                <span class="value">P.V.MADHUSUDHAN</span>
+            </div>
+            <div class="row">
+                <span class="label">Roll No:</span>
+                <span class="value">24B95A4725</span>
+            </div>
+            <div class="row">
+                <span class="label">Branch:</span>
+                <span class="value">Cybersecurity</span>
+            </div>
+            <div class="row">
+                <span class="label">College:</span>
+                <span class="value">SRKR ENGG COLLEGE</span>
+            </div>
+            <div class="row">
+                <span class="label">Father's Name:</span>
+                <span class="value">Mr. VENKATARATNAM</span>
+            </div>
+            <div class="row">
+                <span class="label">Email:</span>
+                <span class="value">madhu@gmail.com</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
